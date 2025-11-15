@@ -1,0 +1,96 @@
+# Movietoons Brand Kit: Fun Cartoon Edition
+
+**Core Brand Message:** "A world where your memories become movies."
+**Brand Tone:** Playful • Warm • Magical • Cartoonish • Cinematic
+
+---
+
+## 1. Brand Essence & Voice
+
+Movietoons is a playful, modern storytelling platform that transforms personal memories into cinematic, animated, music-driven experiences. The brand must feel warm, imaginative, nostalgic, and magical, like stepping into an animated world.
+
+### Brand Values
+*   **Nostalgia:** Memories matter.
+*   **Creativity:** Life becomes art.
+*   **Warmth & Charm:** Friendly, accessible.
+*   **Magic:** Emotional transformation.
+*   **Storytelling:** Moments become movies.
+
+### Voice Characteristics
+Inspired by Pixar, Disney, and modern musical storytelling. The voice is **Playful, Imaginative, Clever, Emotional, Warm,** and **Kid-friendly but adult-smart.**
+
+**Sample Copy:**
+*   "Every memory deserves its own soundtrack."
+*   "Press play on a world where imagination leads."
+*   "Let your childhood wonder take the director’s chair."
+
+---
+
+## 2. Color Palette
+
+Bright, friendly, Pixar-style colors with soft gradients.
+
+| Name | Hex Code | Use |
+| :--- | :--- | :--- |
+| **Sky Blue** | `#4BB7FF` | Main brand color / hero text |
+| **Warm Cartoon Yellow** | `#FFE45A` | Highlights, buttons, CTA |
+| **Sunset Orange** | `#FF8A3C` | Accents, gradients |
+| **Toon Red** | `#D83838` | CTAs, emphasis |
+| **Magic Purple** | `#8938FF` | Secondary accents |
+| **Cotton Candy Pink** | `#FF7AB8` | Soft playful accents |
+| **Movie Night Navy** | `#0B0E1F` | Dark background for contrast |
+
+**Gradient Examples (for backgrounds and cards):**
+*   **Cartoon Sunrise:** `linear-gradient(135deg, #FFE45A, #FF8A3C)`
+*   **Sky to Magic:** `linear-gradient(120deg, #4BB7FF, #8938FF)`
+
+---
+
+## 3. Typography System
+
+### Headline Font (Cartoon Hero Energy)
+*   **Style:** Bold, thick, rounded display font (e.g., Baloo 2, Fredoka One, Luckiest Guy).
+*   **Rules:** All caps allowed, shadow or outline acceptable, large sizes (64–120px in hero).
+
+### Body Font (Soft and Clean Sans)
+*   **Style:** Gentle rounded modern font (e.g., Nunito, Inter, Montserrat).
+*   **Rules:** Clean, legible, friendly, medium weight.
+
+### Accent Font (Handwritten Cartoon Callouts)
+*   **Style:** Handwritten or comic-style (e.g., Patrick Hand, Comic Neue).
+*   **Use Cases:** Speech bubbles, fun notes on illustrations, mascot voice text.
+
+---
+
+## 4. Mascot & Illustration System
+
+### Mascot Style
+*   **Visuals:** Rounded shapes, thick soft outlines, friendly faces, expressive eyes, subtle glow.
+*   **Purpose:** Mascots should act as guides, appearing in the hero section, product explanations, and pricing pages.
+
+### Illustration Themes
+*   Floating film reels, sparkles, musical notes, Polaroid-style memory frames, old-school cartoon rings.
+*   **Tone:** High emotion, movement, exaggerated expressions, warm lighting.
+
+---
+
+## 5. Motion & Animation Language
+
+Animations should feel like Pixar opening sequences: **Soft, Bouncy, Energetic,** and **Whimsical.**
+
+*   **Examples:** Buttons "squish" on hover, cards pop, CTA glows or pulses, sparkles gently float, hero has slow parallax motion.
+*   **Rule:** Motion should express joy and wonder; nothing should be harsh or jolting.
+
+---
+
+## 6. Brand Do's & Don'ts
+
+| DO | DON'T |
+| :--- | :--- |
+| Use bright cartoon colors | Use sharp corporate lines |
+| Add sparkles and soft glows | Use dark grunge textures |
+| Use small whimsical animations | Use complex photorealistic images |
+| Keep copy warm and delightful | Use an overly formal tone |
+| Use big playful headlines | Use flat grey color schemes |
+| Use mascots prominently | Stretch or skew the logo |
+| Use blurred video backgrounds | Place the logo over busy backgrounds without an overlay |
